@@ -1,0 +1,16 @@
+{
+  "name": "adventjs-2024",
+  "version": "1.0.0",
+  "description": "Mis soluciones para los retos de AdventJS 2024.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Manuel Seitz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "29.5.14",
+    "ts-jest": "29.2.5",
+    "typescript": "5.7.2"
+  }
+}
